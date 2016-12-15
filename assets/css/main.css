@@ -10,6 +10,18 @@ body {
     margin-right: 20px;
 }
 
+@media screen and (orientation: portrait) {
+    img-giraffe {
+        max-width: 90%;
+    }
+}
+
+@media screen and (orientation: landscape) {
+    img-giraffe {
+        max-height: 90%;
+    }
+}
+
 .skill-img {
     max-height: 200px;
 }
