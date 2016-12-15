@@ -1,0 +1,27 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.skill-img {
+    max-height: 200px;
+}
+
+.skill-caption {
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.skill-header {
+    font-family: 'Ubuntu', sans-serif;
+    padding: 10px;
+    margin-top: 10px;
+}
